@@ -1,3 +1,3 @@
-# c2assembly
-C convert to assembly code builder
-"./c2asm.sh c.c"
+# txt2html
+convert format from txt into html invalid chars <>/
+
